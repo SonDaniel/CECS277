@@ -1,3 +1,4 @@
+/*
 package Lab;
 import java.util.Arrays;
 
@@ -31,3 +32,4 @@ public class PersonTester {
         System.out.println("The smallest age: " + smallestAge);
     }
 }
+*/

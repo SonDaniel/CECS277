@@ -1,3 +1,4 @@
+/*
 package Lab;
 
 public class Person implements Measurable, Comparable {
@@ -36,3 +37,4 @@ public class Person implements Measurable, Comparable {
         return firstName + "'" + lastName + " is " + age + " years old.";
     }
 }
+*/

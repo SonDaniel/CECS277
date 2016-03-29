@@ -1,3 +1,4 @@
+/*
 package Lab;
 
 public class Data
@@ -6,7 +7,7 @@ public class Data
       Computes the average of the measures of the given objects.
       @param objects an array of Measurable objects
       @return the average of the measures
-   */
+
    public static double average(Measurable[] objects)
    {
       double sum = 0;
@@ -40,4 +41,6 @@ public class Data
 
       return smallestAge;
    }
+
 }
+*/
